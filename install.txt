@@ -1,0 +1,6 @@
+﻿1.Инсталиране на нужните библиотеки и средства:
+	- за да може да пуснете приложението, трябва да инсталирате JMF. Може да свалите библиотеката от следния линк:
+http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-java-client-419417.html#7372-jmf-2.1.1e-oth-JPR
+	- необходимо е и JRE - java runtime environment
+	
+Приложението генерира файл с настройки с наименование pconfign.jnb, поради което е най-добре да го сложите в отделна директория.
